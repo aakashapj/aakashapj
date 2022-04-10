@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aakash Bera
-- 👀 I’m interested in Machine & Industrial Automation, Robotics
+- 👀 I’m interested in Industrial & Machine Automation, Robotics
 - 🌱 I’m currently learning Structured Text Language & Emulate 3D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aakashapj@gmail.com
